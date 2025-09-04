@@ -3,5 +3,9 @@ public class Demo{
       int a=10;
       int b=20;
       System.out.println("Sum:: "+(a+b));
+      
+      if(a==b){
+         System.out.println("Equal number.");
+      }
   }
 }
