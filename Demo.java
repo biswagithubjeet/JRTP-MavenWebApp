@@ -1,2 +1,11 @@
 public class Demo{
+  public static void main(String[] args){
+      int a=10;
+      int b=20;
+      System.out.println("Sum:: "+(a+b));
+      
+      if(a==b){
+         System.out.println("Equal number.");
+      }
+  }
 }
